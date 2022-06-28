@@ -3,15 +3,16 @@ import classNames from 'classnames'
 import './Panzer.css'
 
 
-const Panzer = ({size}) => {
+const Panzer = ({size, patrolPathLength = 10, panzerSpeed = 3}) => {
     const componentSize = classNames({
         30: size === 'small',
-        60: !size,
+        60: !size || size === 'normal',
         120: size === 'big',
     })
+
     return (
-        <div className="panzer-wrapper">
-            <svg className="panzer" width={componentSize} height={componentSize} viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <div className="panzer-wrapper" style={{width: `${patrolPathLength}rem`}}>
+            <svg style={{animationDuration: `${panzerSpeed}s`}} className="panzer" width={componentSize} height={componentSize} viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <rect y="112" width="8" height="8" fill="#9F7B31"/>
                 <rect x="8" y="112" width="8" height="8" fill="#9F7B31"/>
                 <rect y="24" width="8" height="8" fill="#9F7B31"/>
