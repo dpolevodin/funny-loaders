@@ -1,6 +1,7 @@
 # React Funny Loaders
- 
-[Demo](http://jonjaques.github.io/react-loaders)
+
+Look demo how it works:
+[Demo](https://dpolevodin.github.io/funny-loaders)
 
 ## Install
 

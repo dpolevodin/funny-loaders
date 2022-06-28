@@ -28,7 +28,6 @@
   "bugs": {
     "url": "https://github.com/dpolevodin/funny-loaders/issues"
   },
-  "homepage": "https://github.com/dpolevodin/funny-loaders/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
