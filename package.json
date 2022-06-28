@@ -1,7 +1,7 @@
 {
   "name": "funny-loaders",
   "homepage": "https://dpolevodin.github.io/funny-loaders",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "main": "dist/Panzer.js",
   "module": "dist/Panzer.js",
