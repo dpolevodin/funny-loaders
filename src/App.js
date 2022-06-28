@@ -65,9 +65,9 @@ const App = () => {
             }}>
                 <input onChange={handleChangeSpeed} />
             </div>
-          <Panzer patrolPathLength={24} size={size} panzerSpeed={speed}/>
+            <Panzer patrolPathLength={24} size={size} panzerSpeed={speed}/>
         </div>
-      );
+    );
     }
 
 export default App;
