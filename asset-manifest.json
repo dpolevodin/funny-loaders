@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dpolevodin/funny-loaders/static/css/main.ca8da32f.css",
-    "main.js": "/dpolevodin/funny-loaders/static/js/main.473b2c63.js",
-    "static/js/787.2ad7b088.chunk.js": "/dpolevodin/funny-loaders/static/js/787.2ad7b088.chunk.js",
-    "index.html": "/dpolevodin/funny-loaders/index.html",
-    "main.ca8da32f.css.map": "/dpolevodin/funny-loaders/static/css/main.ca8da32f.css.map",
-    "main.473b2c63.js.map": "/dpolevodin/funny-loaders/static/js/main.473b2c63.js.map",
-    "787.2ad7b088.chunk.js.map": "/dpolevodin/funny-loaders/static/js/787.2ad7b088.chunk.js.map"
+    "main.css": "/funny-loaders/static/css/main.ca8da32f.css",
+    "main.js": "/funny-loaders/static/js/main.736d31c2.js",
+    "static/js/787.2ad7b088.chunk.js": "/funny-loaders/static/js/787.2ad7b088.chunk.js",
+    "index.html": "/funny-loaders/index.html",
+    "main.ca8da32f.css.map": "/funny-loaders/static/css/main.ca8da32f.css.map",
+    "main.736d31c2.js.map": "/funny-loaders/static/js/main.736d31c2.js.map",
+    "787.2ad7b088.chunk.js.map": "/funny-loaders/static/js/787.2ad7b088.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca8da32f.css",
-    "static/js/main.473b2c63.js"
+    "static/js/main.736d31c2.js"
   ]
 }
