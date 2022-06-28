@@ -2,7 +2,6 @@ import React from 'react';
 import classNames from 'classnames'
 import './Panzer.css'
 
-
 const Panzer = ({size, patrolPathLength = 10, panzerSpeed = 3}) => {
     const componentSize = classNames({
         30: size === 'small',

@@ -1,8 +1,5 @@
 .panzer-wrapper {
     position: relative;
-    height: 10rem;
-    /*TODO: delete*/
-    background-color: darkgray;
 }
 
 .panzer {
